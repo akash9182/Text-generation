@@ -1,0 +1,5 @@
+wikitext-2/
+wikitext-103/
+*.floydexpt
+*.floydignore
+*.gitignore
