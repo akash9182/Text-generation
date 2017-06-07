@@ -1,4 +1,5 @@
 # Text-generation
+LSTM recurrent neural network in TensorFlow that learns from Wikipedia text to generate new text.
 
 # Output
 
